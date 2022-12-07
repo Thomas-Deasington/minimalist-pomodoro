@@ -4,7 +4,7 @@ A simple pomodoro project.
 
 # Presentation
 
-![](https://github.com/Thomas-Deasington/minimalist-pomodoro/presentation.gif)
+![](https://github.com/Thomas-Deasington/minimalist-pomodoro/blob/main/presentation.gif)
 
 ## Getting Started
 
