@@ -1,6 +1,10 @@
-# pomodoro
+# minimalist pomodoro
 
-A new Flutter project.
+A simple pomodoro project.
+
+# Presentation
+
+![](https://github.com/Thomas-Deasington/minimalist-pomodoro/presentation.gif)
 
 ## Getting Started
 
